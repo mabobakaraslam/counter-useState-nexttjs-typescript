@@ -1,2 +1,1 @@
-# counter-useState-nexttjs-typescript
-Counter
+# Counter using useState
